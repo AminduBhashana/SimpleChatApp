@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:get/get.dart';
 import 'package:simple_chat_app/Services/sqlHelper.dart';
 import 'package:simple_chat_app/Theme/appConstants.dart';
 import 'package:simple_chat_app/models/userModel.dart';

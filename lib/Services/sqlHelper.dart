@@ -1,9 +1,6 @@
 import 'package:sqflite/sqflite.dart' as sql;
 
-class SQLHelper{
-
-  static const _dbName = 'new_db.db';
-  static const _dbVersion = 1;
+class SQLHelper{ 
 
   static const String table_name = 'users';
   static const String C_UserID = 'user_id';
