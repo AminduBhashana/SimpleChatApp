@@ -10,9 +10,20 @@ A simple offline chat app built with Flutter and Sqflite, allowing chat between 
 
 ## Screenshots
 
-![Screenshot1](path/to/screenshot1.png)
-![Screenshot2](path/to/screenshot2.png)
-![Screenshot3](path/to/screenshot3.png)
+<table>
+  <tr>
+    <td><img src="Screenshots/1.WelcomeScreen.jpg" alt="Screenshot1" width="200"/></td>
+    <td><img src="Screenshots/2.CreateAccountScreen.jpg" alt="Screenshot2" width="200"/></td>
+    <td><img src="Screenshots/3.CreateAccountScreenWhenEmptyFieldSubmission.jpg" alt="Screenshot3" width="200"/></td>
+    <td><img src="Screenshots/6.LoginScreen.jpg" alt="Screenshot4" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="Screenshots/9.SettingsPage.jpg" alt="Screenshot5" width="200"/></td>
+    <td><img src="Screenshots/10.SettingsPageAfterLanguageChange.jpg" alt="Screenshot6" width="200"/></td>
+    <td><img src="Screenshots/15.MoreMessagesAsxyz123.jpg" alt="Screenshot7" width="200"/></td>
+    <td><img src="Screenshots/16.MoreMessagesAsabc123.jpg" alt="Screenshot8" width="200"/></td>
+  </tr>
+</table>
 
 ## Packages Used
 
