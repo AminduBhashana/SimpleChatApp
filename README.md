@@ -46,12 +46,8 @@ To get started with the project, follow these steps:
 
 The app supports two languages: Sinhala and English. You can switch between these languages from the settings page.
 
-## Contributing
 
-If you would like to contribute to this project, please open an issue or submit a pull request.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 
